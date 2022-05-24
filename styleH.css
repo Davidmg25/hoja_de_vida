@@ -1,0 +1,770 @@
+body{
+
+position: relative;
+width: 1400px;
+height: 900px;
+
+background: #80808080;
+
+}
+
+.R2{
+  position: absolute;
+width: 335px;
+height: 985px;
+left: 1px;
+top: -28px;
+
+background: linear-gradient(180deg, rgba(53, 49, 245, 0.85) 6.77%, rgba(1, 3, 27, 0.85) 33.33%, rgba(0, 50, 225, 0.6205) 53.12%, rgba(0, 0, 0, 0.85) 73.96%, rgba(0, 10, 255, 0.85) 95.83%, rgba(37, 110, 248, 0.597656) 99.99%);
+
+}
+
+/*  */
+.P1{
+position: absolute;
+width: 910px;
+height: 73px;
+left: 487px;
+top: 323px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+}
+ /* David Alejandro Mesa Gallón */
+.h1{
+  position: absolute;
+  width: 760px;
+  height: 62px;
+  left: 347px;
+  top: 0px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 59px;
+}
+
+.h2{
+position: absolute;
+width: 381px;
+height: 53px;
+left: 347px;
+top: 55px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 45px;
+line-height: 53px;
+color: #000000;
+
+}
+.G1{
+  position: absolute;
+  width: 481px;
+  height: 60px;
+  left: 399px;
+  top: 180px;
+  
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+color: #000000;
+}
+
+.F1{
+  position: absolute;
+width: 224px;
+height: 224px;
+left: 48.84px;
+top: 4px;
+
+background: url(/ProyectdHDV/imag/F1.png);
+}
+
+.f3{
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 358px;
+  top: 150px;
+  
+
+}
+
+.line1{
+position: absolute;
+width: 1097.06px;
+height: 0px;
+left: 323px;
+top: 208px;
+border: 2px solid #000000;
+
+
+}
+
+
+.h3{
+position: absolute;
+width: 699px;
+height: 53px;
+left: 344px;
+top: 182px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 45px;
+line-height: 53px;
+
+color: #000000;
+}
+
+.p2{
+position: absolute;
+width: 326px;
+height: 35px;
+left: 353px;
+top: 249px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #000000;
+}
+
+.p3{
+  position: absolute;
+width: 343px;
+height: 23px;
+left: 487px;
+top: 291px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+
+.p4{
+  position: absolute;
+      width: 110px;
+      height: 23px;
+      left: 358px;
+      top: 296px;
+      
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 20px;
+      line-height: 23px;
+      
+      color: #000000;
+}
+.p5{
+  position: absolute;
+     width: 113px;
+     height: 69px;
+     left: 355px;
+     top: 320px;
+     
+     font-family: Roboto;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 20px;
+     line-height: 23px;
+     
+     color: #000000;
+}
+
+.W1{
+  position: absolute;
+  width: 94px;
+  height: 23px;
+  left: 37px;
+  top: 364px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  
+  color: #FFFFFF;
+}
+
+.W2{
+  position: absolute;
+width: 312px;
+height: 124px;
+left: 11px;
+top: 419px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+.line2{
+  position: absolute;
+width: 335.01px;
+height: 0px;
+left: 0px;
+top: 403px;
+
+border: 1px solid #FFFFFF;
+}
+
+.W3{
+  position: absolute;
+width: 180px;
+height: 16px;
+left: 84px;
+top: 231px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+
+}
+
+.gmail{
+  position: absolute;
+width: 24px;
+height: 24px;
+left: 37px;
+top: 240px;
+
+}
+
+.W4{
+  position: absolute;
+width: 79px;
+height: 16px;
+left: 85px;
+top: 263px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+.phone{
+  position: absolute;
+width: 24px;
+height: 24px;
+left: 39px;
+top: 270px;
+}
+
+.W5{
+  position: absolute;
+width: 121px;
+height: 16px;
+left: 82px;
+top: 299px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+
+}
+
+.location{
+  position: absolute;
+width: 24px;
+height: 24px;
+left: 39px;
+top: 305px;
+
+}
+
+.github{
+  position: absolute;
+width: 24px;
+height: 24px;
+left: 358px;
+top: 185px;
+}
+
+.W6{
+  position: absolute;
+width: 273px;
+height: 29px;
+left: 31px;
+top: 557px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #FFFFFF;
+
+}
+.line3{
+  position: absolute;
+width: 335.04px;
+height: 0px;
+left: -0.02px;
+top: 590.5px;
+
+border: 1px solid #FFFFFF;
+}
+
+.JS{
+  position: absolute;
+width: 66px;
+height: 16px;
+left: 58px;
+top: 619px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+.W7{
+  position: absolute;
+  width: 50px;
+  height: 26px;
+  left: 59px;
+  top: 644px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  
+  color: #FFFFFF;
+  
+}
+
+.W8{
+  position: absolute;
+width: 49px;
+height: 16px;
+left: 58px;
+top: 670px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+.W9{
+  position: absolute;
+width: 39px;
+height: 32px;
+left: 59px;
+top: 695px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+
+}
+
+.W10{
+  position: absolute;
+width: 34px;
+height: 16px;
+left: 58px;
+top: 722px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+.W11{
+  position: absolute;
+width: 165px;
+height: 16px;
+left: 59px;
+top: 747px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+.W12{
+  position: absolute;
+width: 44px;
+height: 16px;
+left: 59px;
+top: 803px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+
+}
+
+.W13{
+  position: absolute;
+width: 147px;
+height: 16px;
+left: 59px;
+top: 779px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+
+}
+
+h4{
+  position: absolute;
+width: 70px;
+height: 16px;
+left: 8px;
+top: 835px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+.line4{
+  position: absolute;
+width: 335px;
+height: 0px;
+left: 0px;
+top: 862px;
+
+border: 1px solid #FFFFFF;
+
+}
+
+.W14{
+  position: absolute;
+width: 50px;
+height: 16px;
+left: 14px;
+top: 866px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+.W15{
+  position: absolute;
+width: 58px;
+height: 16px;
+left: 98px;
+top: 866px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+
+}
+
+.PR1{
+  position: absolute;
+width: 100px;
+height: 35px;
+left: 358px;
+top: 539px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #000000;
+
+}
+
+.l1{
+  position: absolute;
+width: 1095px;
+height: 0px;
+left: 334px;
+top: 589px;
+
+border: 2px solid #000000;
+}
+
+.PR2{
+  position: absolute;
+width: 294px;
+height: 35px;
+left: 522px;
+top: 604px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #000000;
+
+}
+
+.PR3{
+  position: absolute;
+width: 167px;
+height: 56px;
+left: 355px;
+top: 620px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+
+color: #000000;
+}
+
+.PR4{
+  position: absolute;
+width: 314px;
+height: 23px;
+left: 527px;
+top: 650px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+
+.l2{
+  position: absolute;
+width: 547.01px;
+height: 0px;
+left: 334.99px;
+top: 686.49px;
+
+border: 2px solid #000000;
+transform: rotate(-0.05deg);
+}
+
+.PR5{
+  position: absolute;
+width: 98px;
+height: 35px;
+left: 522px;
+top: 680px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #000000;
+
+}
+
+.PR6{
+  position: absolute;
+width: 135px;
+height: 38px;
+left: 361px;
+top: 730px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+
+color: #000000;
+}
+
+.PR7{
+ 
+
+
+position: absolute;
+width: 280px;
+height: 18px;
+left: 522px;
+top: 735px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+.PR8{
+  position: absolute;
+  width: 84px;
+  height: 18px;
+  left: 524px;
+  top: 760px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 18px;
+  /* identical to box height */
+  
+  
+  color: #000000;
+}
+
+.l3{
+  position: absolute;
+width: 582px;
+height: 0px;
+left: 334px;
+top: 804px;
+
+border: 2px solid #000000;
+}
+
+.PR9{
+  position: absolute;
+width: 167px;
+height: 35px;
+left: 517px;
+top: 807px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #000000;
+
+}
+
+.PR10{
+  position: absolute;
+width: 278px;
+height: 18px;
+left: 527px;
+top: 848px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.PR11{
+  
+position: absolute;
+width: 72px;
+height: 18px;
+left: 391px;
+top: 817px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.computer{
+  position: absolute;
+left: 60.57%;
+right: -2.1%;
+top: 57.33%;
+bottom: 0.38%;
+
+}
